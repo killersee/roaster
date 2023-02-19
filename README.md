@@ -2,7 +2,8 @@
 ## Installation
 ### Step 1: Install Rust
 Rust is a programming language that is required to develop and deploy smart contracts on Concordium. To install Rust, please follow the instructions on this website: https://www.rust-lang.org/tools/install
-1.png
+
+https://github.com/killersee/roaster/issues/1#issue-1590766957
 
 
 ### Step 2: Install cargo-concordium
